@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Панин Сергей
+## Контактная информация 
+* Адрес: Москва, Россия
+* +7 950 907 67 69
+* E-mail: sergeyp767@gmail.com
+* Telegram: @sergeypan1n 
+* GitHub: [pro100sergey](https://github.com/pro100sergey)
+* Codeforces: [профиль](https://codeforces.com/profile/sergeyp767)
+## Проекты
+* [Бот для дискорда](https://github.com/pro100sergey/DiscordBot) 
 
-You can use the [editor on GitHub](https://github.com/pro100sergey/pro100sergey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pro100sergey/pro100sergey.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Данный бот был написан для фриланса на python. В проекте использутется асинхронность и работа с запросами для возможности транслировать музыку с youtube. 
+## Обо мне
+Учусь в МИСИС на направлении Интеллектуальные системы анализа данных. В 2022 году преподавал алгоритмы в летней школе ЛШП. В 2021 году сдал ЕГЭ по информатике на 100 баллов, по математике на 99. На момент написания моим дополнительным образованием является просмотр лекций по C++ от МФТИ, изучение линейной алгебры и теории вероятности с помощью открытых курсов ВШЭ и кружок по спортивному программированию.
+## Навыки
+* C++
+* Алгоритмы и структуры данных 
+* Git/GitHub
+* Python
+* Сетевых технологий (TCP/IP, UDP, HTTP)
+* Assembler 
+* HTML5
+* CSS3
+## Опытр работы 
+* Разработка ботов на фрилансе - 2021 весна, лето
+* Преподавание в летней школе - 2022 лето 
+## Образование
+* МИСИС - Интеллектуальные системы анализа данных (на данный момент перехожу на 2 курс)
+* МФТИ - [курс по C++](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaWsj3-0gLH_yEZfKdTife0)
+## Языки
+* Русский - C2 (native)
+* English - B2 (upper-intermediate)
