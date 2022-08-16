@@ -29,7 +29,7 @@
 
 ## Образование
 * МИСИС - Интеллектуальные системы анализа данных (перехожу на 2 курс)
-* МФТИ - [курс по C++](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
+* МФТИ - [курс по C++](https://www.youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
 
 ## Языки
 * Русский - C2 (native)
