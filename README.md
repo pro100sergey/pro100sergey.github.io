@@ -6,6 +6,11 @@
 * Telegram: @sergeypan1n 
 * GitHub: [pro100sergey](https://github.com/pro100sergey)
 * Codeforces: [профиль](https://codeforces.com/profile/sergeyp767)
+
+## Достижения
+* Призёр полуфинала ICPC 2022-2023
+* Призёр RuCode 5.0 и RuCode 6.0 
+
 ## Проекты
 * [Бот для дискорда](https://github.com/pro100sergey/DiscordBot) 
 
@@ -25,11 +30,11 @@
 
 ## Опыт работы 
 * Разработка ботов на фрилансе - 2021 весна, лето
-* Преподавание в летней школе - 2022 лето 
+* Преподавание алгоритмов в летней школе - 2022 лето 
 
 ## Образование
-* МИСИС - Интеллектуальные системы анализа данных (перехожу на 2 курс)
-* МФТИ - [курс по C++](https://www.youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
+* МИСИС - Интеллектуальные системы анализа данных (2 курс)
+* МФТИ - [курс по C++](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
 
 ## Языки
 * Русский - C2 (native)
