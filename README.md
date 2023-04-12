@@ -1,8 +1,6 @@
 # Панин Сергей
 ## Контактная информация 
 * Адрес: Москва, Россия
-* +7 950 907 67 69
-* E-mail: sergeyp767@gmail.com
 * Telegram: @sergeypan1n 
 * GitHub: [pro100sergey](https://github.com/pro100sergey)
 * Codeforces: [профиль](https://codeforces.com/profile/sergeyp767)
